@@ -11,7 +11,7 @@ public class Coordinates {
 	boolean changed;
 	
 	/**
-	 * Creates a new set of coordnates.
+	 * Creates a new set of coordinates.
 	 * 
 	 * @param x
 	 * @param y
@@ -47,7 +47,4 @@ public class Coordinates {
 	public void setChanged(boolean changed) {
 		this.changed = changed;
 	}
-	
-	
-
 }
